@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>peters story</title>
+</head>
+<style>
+    h1{
+      color; aqua
+      text-align; center
+    }
+    h2{
+      color; aqua
+    }
+</style>
+<body>
+    <h1>Peter's Journey to Success</h1>
+    <h2>Getting Strted</h2>
+         <p>Once upon a time in Nigeria, there was a young man<br>named Peter. Curious and eager to learn, he stumbled<br> upon the fascinting world of web development. Armed<br>with determintion, he began his journey by writing his<br>first HTML code on a simple text editor.</p>
+   
+    <h2>Exploring HTML </h2>
+         <p>Peter's enthusiasm for HTML grew rapidly as he<br>discovered the power od tags and elements. With each<br>line of code he wrote, he gained  deeper understanding<br>of how to structure content and create meaningful web<br>pages.</p>
+    
+    <h2>Learning Progress</h2>
+    <table>
+          <tr>
+              <th>Date</th>
+              <th>Milestone</th>
+          </tr>
+          <tr>
+               <th>January 2023</th>
+               <th>Started learning HTML basics.Added images and links to web pages</th>
+          </tr>
+          <tr>
+               <th>February 2023</th>
+               <th>Explored forma and inputs. Learned about CSS</th>
+          </tr>
+          <tr>
+               <th>March 2023</th>
+               <th>Strted learning Javascript</th>
+          </tr>
+          <tr>
+               <th>April 2023</th>
+               <th>Started learning ReactJS</th>
+          </tr>
+        
+    </table>
+         
+    
+    <h2>Achieving Milestones</h2>
+         <p>Peter's passion for web development led him to explore<br>more advanced concept like CSS and Javascript.With<br>each milestone,he gained confidence and skill, and his<br> web projects became more impressive</p>
+    <h2>Success Story</h2>
+         <p>One day, an opportunity knocked on Peter's door. Armed<br>with his newfound knowledge, he secured a job as a<br>front end developer in a reputable company. With<br>hardwork and dedication,he continued to grow and<br>soon earned recognition for his exceptionl work.</p> 
+    
+    <h2>From Dreams to Reality</h2>
+         <p>With his web development expertise, Peter ventured<br>into freelance project, building website for clients<br>around the world. His skills and reputation florished<br>and soon he was making a lucrative income of $100,000<br>a year.</p>
+   
+    <h2> Peter's Key to Success</h2>
+          <ol>
+            <li>Stay persistent and never stop learning.</li>
+            <li>Build practical project to apply your knowledge.</li>
+            <li>seek out mentor ship and learn from experienced developers.</li>
+            <li>Contribute to open source project to gain real world experience.</li>
+            <li>Network with others in the web development community.</li>
+          </ol>    
+          
+    <h2> Tools and Technologies Peter Mastered</h2>
+         <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>Javascript</li>
+            <li>React.js</li>
+            <li>Git and GitHub</li>
+        </ul>
+    <h2>HTML Example </h2>
+        <p><!DOCTYPE html>
+        <html>
+        <head>
+            <title>My first Web Page</title>
+        </head>
+        <body>
+            <h1>Hello, World!</h1>
+            <p>Welcome to my website.</p>
+        </body>
+        </html></p>
+</body>
+</html>
